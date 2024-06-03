@@ -312,10 +312,10 @@ a:hover {
 	background-size: 9em;
 	border-radius: 36%;
 	background-image: url("https://avatars.githubusercontent.com/u/145117767?v=4");
-	-moz-animation: picmove 3s infinite;
+	/*-moz-animation: picmove 3s infinite;
 	-webkit-animation: picmove 3s infinite;
 	-ms-animation: picmove 3s infinite;
-	animation: picmove 3s infinite;
+	animation: picmove 3s infinite;*/
 }
 
 @keyframes picmove {
